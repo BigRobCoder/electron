@@ -302,6 +302,7 @@ filenames = {
     "shell/browser/api/electron_api_url_loader.h",
     "shell/browser/api/electron_api_view.cc",
     "shell/browser/api/electron_api_view.h",
+    "shell/browser/api/electron_api_visible_region.cc",
     "shell/browser/api/electron_api_web_contents.cc",
     "shell/browser/api/electron_api_web_contents.h",
     "shell/browser/api/electron_api_web_contents_impl.cc",

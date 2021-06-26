@@ -220,6 +220,7 @@ auto_filenames = {
     "lib/browser/api/tray.ts",
     "lib/browser/api/view.ts",
     "lib/browser/api/views/image-view.ts",
+    "lib/browser/api/visible-region.ts",
     "lib/browser/api/web-contents-view.ts",
     "lib/browser/api/web-contents.ts",
     "lib/browser/api/web-frame-main.ts",

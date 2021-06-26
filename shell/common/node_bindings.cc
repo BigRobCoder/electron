@@ -78,6 +78,7 @@
   V(electron_common_screen)              \
   V(electron_common_shell)               \
   V(electron_common_v8_util)             \
+  V(electron_common_visible_region)      \
   V(electron_renderer_context_bridge)    \
   V(electron_renderer_crash_reporter)    \
   V(electron_renderer_ipc)               \

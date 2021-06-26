@@ -194,6 +194,7 @@ declare namespace NodeJS {
     _linkedBinding(name: 'electron_common_screen'): { createScreen(): Electron.Screen };
     _linkedBinding(name: 'electron_common_shell'): Electron.Shell;
     _linkedBinding(name: 'electron_common_v8_util'): V8UtilBinding;
+    _linkedBinding(name: 'electron_common_visible_region'): void;
     _linkedBinding(name: 'electron_browser_app'): { app: Electron.App, App: Function };
     _linkedBinding(name: 'electron_browser_auto_updater'): { autoUpdater: Electron.AutoUpdater };
     _linkedBinding(name: 'electron_browser_browser_view'): { BrowserView: typeof Electron.BrowserView };
